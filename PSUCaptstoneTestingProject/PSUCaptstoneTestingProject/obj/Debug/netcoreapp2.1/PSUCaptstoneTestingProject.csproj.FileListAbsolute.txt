@@ -1,0 +1,15 @@
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.deps.json
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.runtimeconfig.json
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.runtimeconfig.dev.json
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\bin\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.dll
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\obj\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.csprojAssemblyReference.cache
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\obj\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\obj\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.AssemblyInfoInputs.cache
+C:\Users\Brandon Danielski\source\repos\PSUCaptstoneTestingProject\PSUCaptstoneTestingProject\obj\Debug\netcoreapp2.1\PSUCaptstoneTestingProject.AssemblyInfo.cs
